@@ -27,7 +27,7 @@ That’s why we built AVEC, STTP, ACC, DMC, Locus, and Resonantia:
 
 - AVEC (Attractor Vector Encoding Configuration) a take on OCEAN (The big 5 of psychology) applied to AI context.
 
-- ACC models **codebases as living systems**, quantifying stability, logic, friction, and autonomy, and providing **actionable insight** directly in your editor.
+- ACC (Adaptive Codec Context) models **codebases as living systems**, quantifying stability, logic, friction, and autonomy, and providing **actionable insight** directly in your editor.
     
 - STTP (Spatio-Temporal Transfer Protocol) the typed IR language for cognition. Enables A2A quasi-deterministic communication and verification via structure.
 
