@@ -1,4 +1,4 @@
-# **KeryxLabs**  
+# **Entasis**  
 
 Tech lost something.  
 
@@ -11,7 +11,7 @@ We traded that for ease and speed.
 Everything got smoother and blander at the same time.
 Even the tools we use to build things stopped feeling like ours.
 
-KeryxLabs exists to build differently.  
+Entasis exists to build differently.  
 Not faster. Not easier. **More meaningful.**
 
 We create tools that **augment how you think instead of replacing your thinking**.
