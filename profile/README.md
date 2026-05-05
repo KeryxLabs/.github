@@ -23,7 +23,7 @@ We are a **modern data integration and reasoning lab**.
 AI is a lens. Data is the substance. Humans are still the point.
 
 We believe computation, whether over code, knowledge, or thought can be **structured, observable, and interpretable**.
-That’s why we built AVEC, STTP, ACC, DMC, Resonantia, Locus:
+That’s why we built AVEC, STTP, ACC, DMC, Locus, and Resonantia:
 
 - AVEC (Attractor Vector Encoding Configuration) a take on OCEAN (The big 5 of psychology) applied to AI context.
 
